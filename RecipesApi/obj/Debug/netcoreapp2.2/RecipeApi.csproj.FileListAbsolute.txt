@@ -1,0 +1,14 @@
+C:\Users\dzhem\source\repos\RecipeApi\RecipeApi\bin\Debug\netcoreapp2.2\RecipeApi.deps.json
+C:\Users\dzhem\source\repos\RecipeApi\RecipeApi\bin\Debug\netcoreapp2.2\RecipeApi.runtimeconfig.json
+C:\Users\dzhem\source\repos\RecipeApi\RecipeApi\bin\Debug\netcoreapp2.2\RecipeApi.runtimeconfig.dev.json
+C:\Users\dzhem\source\repos\RecipeApi\RecipeApi\bin\Debug\netcoreapp2.2\RecipeApi.dll
+C:\Users\dzhem\source\repos\RecipeApi\RecipeApi\obj\Debug\netcoreapp2.2\RecipeApi.csprojAssemblyReference.cache
+C:\Users\dzhem\source\repos\RecipeApi\RecipeApi\obj\Debug\netcoreapp2.2\RecipeApi.csproj.CoreCompileInputs.cache
+C:\Users\dzhem\source\repos\RecipeApi\RecipeApi\obj\Debug\netcoreapp2.2\RecipeApi.RazorAssemblyInfo.cache
+C:\Users\dzhem\source\repos\RecipeApi\RecipeApi\obj\Debug\netcoreapp2.2\RecipeApi.RazorAssemblyInfo.cs
+C:\Users\dzhem\source\repos\RecipeApi\RecipeApi\obj\Debug\netcoreapp2.2\RecipeApi.AssemblyInfoInputs.cache
+C:\Users\dzhem\source\repos\RecipeApi\RecipeApi\obj\Debug\netcoreapp2.2\RecipeApi.AssemblyInfo.cs
+C:\Users\dzhem\source\repos\RecipeApi\RecipeApi\obj\Debug\netcoreapp2.2\RecipeApi.RazorTargetAssemblyInfo.cache
+C:\Users\dzhem\source\repos\RecipeApi\RecipeApi\bin\Debug\netcoreapp2.2\RecipeApi.pdb
+C:\Users\dzhem\source\repos\RecipeApi\RecipeApi\obj\Debug\netcoreapp2.2\RecipeApi.dll
+C:\Users\dzhem\source\repos\RecipeApi\RecipeApi\obj\Debug\netcoreapp2.2\RecipeApi.pdb
